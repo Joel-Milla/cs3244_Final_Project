@@ -21,7 +21,7 @@ The first two notebooks explain the data preprocessing and feature engineering d
 The next four notebooks (Decision Tree, Linear Regression, Neural Network, and KNN) contain the principal models that we developed, with the Decision Tree being the best. The main organization of these notebooks was to first have a baseline model and test it directly with all the features. After that, many techniques were applied throughout the notebooks to improve the model. These include the data preprocessing done previously, the feature engineering, and also other specific techniques that are relevant to those types of models.
 
 ## Independent work
-We also include a PDF with the statement of the group’s independent work.
+We also include a PDF with the statement of the group’s independent work by the name 'Statement of Independent Work.pdf'.
 
 ## References
 Singh, K. (2015). Facebook Comment Volume [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5Q886.
